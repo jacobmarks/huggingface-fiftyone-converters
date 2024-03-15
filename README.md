@@ -14,7 +14,7 @@ pip install -U datasets fiftyone
 Then clone the repo:
 
 ```bash
-git clone https://github.com/jacobmarks/export_hf_datasets_to_fiftyone.git
+git clone https://github.com/jacobmarks/huggingface-fiftyone-converters.git
 cd export_hf_datasets_to_fiftyone
 ```
 
